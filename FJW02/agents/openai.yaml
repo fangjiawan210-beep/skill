@@ -1,0 +1,4 @@
+interface:
+  display_name: "FJW02"
+  short_description: "根据流程描述生成或核对OA流程编码与中英文完整名称"
+  default_prompt: "使用 $FJW02 根据流程描述生成流程编码与中英文完整名称。"
