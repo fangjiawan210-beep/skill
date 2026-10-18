@@ -1,0 +1,4 @@
+interface:
+  display_name: "FJW01"
+  short_description: "中东OA角色编码生成器：仅输出一行完整角色名称"
+  default_prompt: "使用 $FJW01 根据角色描述生成完整角色名称，只输出一行：<角色编码> <中文角色名称> | <English Role Name>。"
